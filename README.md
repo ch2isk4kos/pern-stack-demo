@@ -4,3 +4,10 @@
 
 **<p>[React](reactjs.org)</p>**
 **<p>[Auth0](https://www.npmjs.com/package/auth0-js)</p>**
+<br><br>
+
+## Server Side Tools
+
+<br><br>
+
+## Data Store
